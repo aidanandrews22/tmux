@@ -1,1 +1,1 @@
-# tux
+# Aidan Andrews tmux configuration
